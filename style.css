@@ -84,7 +84,7 @@ line-height: 32px;
   margin-top: 50px;
 }
 
-@media(min-width:1440px){
+@media(min-width:1200px){
   .conteudo{
     display: grid;
     grid-template-columns: 1fr ;
